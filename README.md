@@ -83,7 +83,6 @@ The code is converted using the `mt8870Map` array:
 
 Profile switching: `A` = P1, `B` = P2, `C` = P3, `D` = P4.
 
-The Arduino IDE requires the sketch folder to have the same name as the `.ino` file.
 
 ## Profiles and mapping
 
