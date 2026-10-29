@@ -60,7 +60,7 @@ Boards with 3.3 V logic (Raspberry Pi Pico, ESP32-S3) are possible if you add a 
 | Q2 | D3 |
 | Q3 | D4 |
 | Q4 | D5 |
-| StD | D6 |
+| StD/StQ | D6 |
 | VCC | 5 V |
 | GND | GND |
 
